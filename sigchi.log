@@ -1,0 +1,203 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdftex 2013.2.6)  7 FEB 2013 11:40
+entering extended mode
+**C:/Users/william/Dropbox/discusystem/Latex/SIGCHI2012LaTeX/sigchi.cls
+(C:/Users/william/Dropbox/discusystem/Latex/SIGCHI2012LaTeX/sigchi.cls
+! Undefined control sequence.
+l.67 \usepackage
+                {epsfig}
+? 
+! Undefined control sequence.
+l.68 \usepackage
+                {amssymb}
+? 
+! Undefined control sequence.
+l.69 \usepackage
+                {amsmath}
+? 
+! Undefined control sequence.
+l.70 \usepackage
+                {amsfonts}
+? 
+! Undefined control sequence.
+l.130 \typeout
+              {Document Class sigchi' <Oct 19, 2011>. Updated for chi 2012
+? 
+! Undefined control sequence.
+l.132 \typeout
+              {Document Class `chi2011' <October 19, 2010>. Tweaked by Manas...
+
+? 
+! Undefined control sequence.
+l.133 \typeout
+              {Shamelessly copied from}
+? 
+! Undefined control sequence.
+l.134 \typeout
+              {`chiproceedings' <7th Sep. '00>. Modified by Jan O. Borchers}...
+
+? 
+! Undefined control sequence.
+l.135 \typeout
+              {`acm_proc_article-sp' <2nd. October '02>.  Modified by G.K.M....
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.135 \typeout{`acm_
+                    proc_article-sp' <2nd. October '02>.  Modified by G.K.M....
+
+? 
+! Extra }, or forgotten $.
+l.135 ... October '02>.  Modified by G.K.M. Tobin}
+                                                   % DLC
+? 
+! Undefined control sequence.
+l.136 \typeout
+              {`acmconf' <22 May 89>. Hacked 4/91 by shivers@cs.cmu.edu, 4/9...
+
+? 
+! Undefined control sequence.
+l.137 \typeout
+              {Excerpts were taken from (Journal Style) 'esub2acm.cls'.}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.139 
+      
+? 
+
+Overfull \hbox (372.44496pt too wide) in paragraph at lines 130--139
+$\tenrm 2\teni nd:October[]\tenrm 02 \teni > :ModifiedbyG:K:M:Tobin[][]$ |
+
+\hbox(7.51782+2.5)x469.75499
+.\beginM
+.\tenrm 2
+.\teni n
+.\teni d
+.\teni :
+.etc.
+
+! Undefined control sequence.
+l.140 \oddsidemargin
+                     1.9cm            % [jdf] stick to CHI Formating Guidelines
+
+? 
+! Undefined control sequence.
+l.141 \evensidemargin
+                      1.9cm           % [jdf] idem
+? 
+! Undefined control sequence.
+l.142 \advance\oddsidemargin
+                             by -1in  % Correct for LaTeX gratuitousness
+? 
+! You can't use `the letter b' after \advance.
+l.142 \advance\oddsidemargin b
+                              y -1in  % Correct for LaTeX gratuitousness
+? 
+! Undefined control sequence.
+l.143 \advance\evensidemargin
+                              by -1in % Correct for LaTeX gratuitousness
+? 
+! You can't use `the letter b' after \advance.
+l.143 \advance\evensidemargin b
+                               y -1in % Correct for LaTeX gratuitousness
+? 
+! Undefined control sequence.
+l.144 \marginparwidth
+                      0pt             % Margin pars are not allowed.
+? 
+! Undefined control sequence.
+l.145 \marginparsep
+                    11pt              % Horizontal space between outer margi...
+
+? 
+! Undefined control sequence.
+l.149 \topmargin
+                 2.2cm                % [jdf] stick to CHI Formating Guidelines
+
+? 
+! Undefined control sequence.
+l.152 \advance\topmargin
+                         by -1in      % Correct for LaTeX gratuitousness
+? 
+! You can't use `the letter b' after \advance.
+l.152 \advance\topmargin b
+                          y -1in      % Correct for LaTeX gratuitousness
+? 
+! Undefined control sequence.
+l.153 \headheight
+                  0pt                 % Height of box containing running head.
+? 
+! Undefined control sequence.
+l.154 \headsep
+               0pt                    % Space between running head and text.
+? 
+! Undefined control sequence.
+l.156 \footskip
+                30pt                  % Distance from baseline of box contai...
+
+? 
+! Undefined control sequence.
+l.158 \@
+        ifundefined{footheight}{\newdimen\footheight}{}% this is for LaTeX2e
+? 
+\footheight=\dimen16
+! Undefined control sequence.
+l.165 \advance\topmargin
+                         by -37pt     % Leave 37pt above text for headers
+? 
+! You can't use `the letter b' after \advance.
+l.165 \advance\topmargin b
+                          y -37pt     % Leave 37pt above text for headers
+? 
+! Undefined control sequence.
+l.166 \headheight
+                  12pt                % Height of box containing running head.
+? 
+! Undefined control sequence.
+l.167 \headsep
+               25pt                   % Space between running head and text.
+? 
+! Undefined control sequence.
+l.169 \textheight
+                  23cm        % [jdf] stick to CHI Formating Guidelines
+? 
+! Undefined control sequence.
+l.170 \textwidth
+                 18cm         % [jdf] stick to CHI Formating Guidelines
+? 
+! Undefined control sequence.
+l.172 \columnsep
+                 8.5mm        % [jdf] stick to CHI Formating Guidelines
+? 
+! Undefined control sequence.
+l.173 \columnseprule
+                     0pt      %    Width of rule between columns.
+? 
+! Undefined control sequence.
+l.177 \footnotesep
+                   5.6pt      % Height of strut placed at the beginning of e...
+
+? 
+! Undefined control sequence.
+l.183 \floatsep
+                11pt plus 2pt minus 2pt       % Space between adjacent float...
+
+? 
+! Undefined control sequence.
+l.185 \textfloatsep
+                    18pt plus 2pt minus 4pt   % Space between main text and ...
+
+? 
+! Emergency stop.
+l.185 \textfloatsep
+                    18pt plus 2pt minus 4pt   % Space between main text and ...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
